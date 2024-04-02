@@ -53,7 +53,6 @@ int main (void) {
             res = n1 / n2;
             printf("Divisao: %.5f \n", res);
         }
-
         break;
     default:
         break;
